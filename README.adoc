@@ -1,0 +1,5 @@
+== Kafka-Avro examples
+
+This repo contains a simple example of using a Kafka client to connect to Kafka and Schema Registry servers in Cloudera's CDP Public Cloud.
+
+For an explanation of this example, please check this[TBD].
