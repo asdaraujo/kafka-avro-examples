@@ -1,0 +1,11 @@
+{
+  "type": "record",
+  "namespace": "com.cloudera.examples",
+  "name": "Transaction",
+  "fields": [
+    { "name": "id", "type": "long" },
+    { "name": "account_id", "type": "long" },
+    { "name": "amount", "type": "double" },
+    { "name": "currency", "type": "string" }
+  ]
+}
