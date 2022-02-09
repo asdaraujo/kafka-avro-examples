@@ -2,4 +2,4 @@
 
 This repo contains a simple example of using a Kafka client to connect to Kafka and Schema Registry servers in Cloudera's CDP Public Cloud.
 
-For an explanation of this example, please check this[TBD].
+For a detailed explanation of this example, please check this link:https://community.cloudera.com/t5/Community-Articles/Connecting-to-Kafka-and-Schema-Registry-in-Data-Hub/ta-p/335855[Cloudera Community article].
